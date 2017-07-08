@@ -1,4 +1,4 @@
-console.log("this is loaded");
+// console.log("this is loaded");
 
 exports.twitterKeys = {
 	consumer_key: "u7y71m0U338jO06fSc85BBkXI",
@@ -13,6 +13,6 @@ exports.spotifyKeys = {
 }
 
 exports.requestKeys = {
-	request_key: "d1b0c7de",
+	request_key: "40e9cece",
 }
 
